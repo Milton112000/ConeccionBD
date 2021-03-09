@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\concexionDB.exe.config
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\concexionDB.exe
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\concexionDB.pdb
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.Form1.resources
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.exe
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.pdb
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.VISTA.loguin.resources
+C:\Users\USUARIO\source\repos\concexionDB\concexionDB\obj\Debug\concexionDB.VISTA.MENU.resources
